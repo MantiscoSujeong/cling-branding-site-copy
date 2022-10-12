@@ -1,0 +1,1 @@
+export { default as kolaMovie } from "./kolaMovie.mp4";

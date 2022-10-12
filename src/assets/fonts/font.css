@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'SpoqaBold';
+    src: url("./SpoqaHanSansNeo-Bold.otf");
+    unicode-range: U+AC00-D7A3;
+}
+
+@font-face {
+    font-family: 'Poppin400';
+    src: url("./Poppins-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'SpoqaMedium';
+    src: url("./SpoqaHanSansNeo-Medium.otf");
+}
+
+@font-face {
+    font-family: 'Poppin500';
+    src: url("./Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'Poppin700';
+    src: url("./Poppins-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Odibee';
+    src: url("./OdibeeSans-Regular.ttf");
+}
+
+
+@font-face {
+    font-family: 'NotoSansBold';
+    src: url("./NotoSans-Bold.ttf");
+}
